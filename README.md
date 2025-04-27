@@ -3,7 +3,13 @@
 </div>
 
 # 💫 About Me:
-Hey, I’m Pahasara. 👋<br><br>🔭 I’m currently working on building rock-solid cloud services at IFS Sri Lanka as a Site Reliability Engineer (SRE) and DevOps Engineer.<br>🛡️ I come from a Cybersecurity background, which still shapes how I think about systems, security, and reliability.<br><br>👯 I’m looking to collaborate on projects that involve DevOps, automation, SRE best practices, or anything that makes systems more resilient.<br>🌱 I’m currently learning Python, Golang, Terraform, GitHub Actions, Azure Kubernetes Service (AKS), and a bit of cloud security on the side.<br><br>💬 Ask me about cloud services (Azure, AWS, Oracle), Linux wizardry, automation strategies, or even how to break (and fix) systems the fun way.<br><br>⚡ Fun fact:<br>I didn’t grow up in tech. I started with an old laptop, a lot of broken systems, and even more late nights fixing them.<br>Now, I’m building a career around making sure things don't break at 2 AM. 🚀<br><br>Also, I'm writing a series called "DevOps for Everyone", trying to make the DevOps world a little less scary for beginners. 📚
+Hey, I’m Pahasara. 👋<br><br>
+🔧 Site Reliability Engineer (SRE) at IFS Sri Lanka  
+🛡️ Cybersecurity background shaping my approach to systems and security [ BSc (Hons) Cyber Security ]  
+🌱 Learning Python, Golang, Terraform, AKS, and cloud security  
+💬 Ask me about cloud services, Linux, automation, or breaking systems (and fixing them!)  
+📚 Writing "DevOps for Everyone" to help beginners navigate the DevOps world  
+⚡ Fun fact: I started with an old laptop and late nights fixing broken systems—now I ensure they don’t break at 2 AM! 🚀
 
 
 ## 🌐 Socials:
@@ -24,8 +30,4 @@ Hey, I’m Pahasara. 👋<br><br>🔭 I’m currently working on building rock-s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rpahasara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=rpahasara&icon=0&color=0)](https://visitcount.itsvg.in)
