@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 Hey, I’m Pahasara. 👋<br><br>
-🔧 Devops Engineer at Random Software LTD, UK 
+🔧 Devops Engineer at Random Software LTD
 🛡️ Cybersecurity background shaping my approach to systems and security [ BSc (Hons) Cyber Security ]  
 🌱 Learning Python, Golang, Terraform, AKS, and cloud security  
 💬 Ask me about cloud services, Linux, automation, or breaking systems (and fixing them!)  
