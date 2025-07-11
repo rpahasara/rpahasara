@@ -9,7 +9,7 @@ Hey, I’m Pahasara. 👋<br><br>
 🌱 Learning Python, Golang, Terraform, AKS, and cloud security  
 💬 Ask me about cloud services, Linux, automation, or breaking systems (and fixing them!)  
 📚 Writing "DevOps for Everyone" to help beginners navigate the DevOps world  
-⚡ Fun fact: I started with an old laptop and late nights fixing broken systems—now I ensure they don’t break at 2 AM! 🚀
+⚡ Fun fact: I started with an old laptop and late nights fixing broken systems, now I ensure they don’t break at 2 AM! 🚀
 
 
 ## 🌐 Socials:
